@@ -15,6 +15,7 @@
   <remove-project name="CyanogenMod/android_system_vold" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_external_wpa_supplicant_6" />
+  <remove-project name="CyanogenMod/android_bionic" />
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av" revision="mr1-staging"  />
   <project path="frameworks/base" name="Quarx2k/android_frameworks_base" revision="mr1-staging" />
@@ -41,4 +42,5 @@
   <project path="system/vold" name="Quarx2k/android_system_vold" revision="mr1-staging" />
   <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" revision="mr1-staging" />
   <project path="external/wpa_supplicant_6" name="Quarx2k/android_external_wpa_supplicant_6" revision="mr1-staging" />
+  <project path="bionic" name="Quarx2k/android_bionic" />
 </manifest>
