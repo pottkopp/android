@@ -10,7 +10,6 @@
   <remove-project name="CyanogenMod/android_system_core" />
   <remove-project name="CyanogenMod/android_hardware_ti_omap3" />
   <remove-project name="CyanogenMod/android_bootable_recovery" />
-  <remove-project name="CyanogenMod/android_vendor_cm" />
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_system_vold" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
@@ -35,7 +34,6 @@
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="mr1-staging" />
-  <project path="vendor/cm" name="Quarx2k/android_vendor_cm" revision="mr1-staging" />
   <project path="hardware/libhardware_legacy" name="Quarx2k/android_hardware_libhardware_legacy" revision="mr1-staging" />
   <project path="system/core" name="Quarx2k/android_system_core" revision="mr1-staging" />
   <project path="frameworks/opt/telephony" name="Quarx2k/android_frameworks_opt_telephony" revision="mr1-staging" />
