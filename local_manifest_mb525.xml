@@ -18,7 +18,7 @@
   <remove-project name="CyanogenMod/android_hardware_ti_wlan" />
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av" revision="mr1-staging"  />
-  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" revision="mr1-staging" />
+  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
   <project path="frameworks/native" name="Quarx2k/android_frameworks_native" revision="mr1-staging" />
   <project path="hardware/ril" name="Quarx2k/android_hardware_ril" revision="mr1-staging" />
   <project path="hardware/ti/omap3" name="CyanogenDefy/android_hardware_ti_omap3-compat" revision="jellybean"/>
