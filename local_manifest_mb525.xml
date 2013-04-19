@@ -13,7 +13,6 @@
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
  <!--   <remove-project name="CyanogenMod/android_system_vold" /> -->
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
-  <remove-project name="CyanogenMod/android_packages_apps_Phone"/>
   <remove-project name="CyanogenMod/android_hardware_ti_wlan"/>
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av"  />
@@ -37,6 +36,5 @@
   <project path="frameworks/opt/telephony" name="Quarx2k/android_frameworks_opt_telephony"  />
  <!--   <project path="system/vold" name="Quarx2k/android_system_vold" revision="mr1-staging" /> -->
   <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
-  <project path="packages/apps/Phone" name="Quarx2k/android_packages_apps_Phone" />
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" />
 </manifest>
