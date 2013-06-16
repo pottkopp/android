@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="omapzoom" fetch="git://git.omapzoom.org/" />
+
   <!-- CM removals -->
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_frameworks_base" />
@@ -14,6 +16,7 @@
  <!--   <remove-project name="CyanogenMod/android_system_vold" /> -->
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_hardware_ti_wlan"/>
+  <remove-project name="CyanogenMod/wpa_supplicant_8_ti"/>
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av"  />
   <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
@@ -36,4 +39,6 @@
  <!--   <project path="system/vold" name="Quarx2k/android_system_vold" revision="mr1-staging" /> -->
   <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" />
+  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="d-jb-mr1-release" />
+
 </manifest>
