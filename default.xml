@@ -335,6 +335,6 @@
   <project path="external/bootmenu" name="Quarx2k/android_external_bootmenu" />
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="AeroKernel" />
-  <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti"  revision="cm-10.1" />
+  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="d-jb-mr1-release" />
 
 </manifest>
