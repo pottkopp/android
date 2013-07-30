@@ -16,7 +16,6 @@
  <!--   <remove-project name="CyanogenMod/android_system_vold" /> -->
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_hardware_ti_wlan"/>
-  <remove-project name="CyanogenMod/android_external_wpa_supplicant_8_ti"/>
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av"  />
   <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
@@ -39,6 +38,5 @@
  <!--   <project path="system/vold" name="Quarx2k/android_system_vold" revision="mr1-staging" /> -->
   <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan"  revision="cm-10.1"  />
-  <project path="external/wpa_supplicant_8_ti" name="Quarx2k/wpa_supplicant_8_ti"  revision="cm-10.2"  />
 
 </manifest>
