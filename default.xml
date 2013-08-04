@@ -406,7 +406,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
   
-  <project path="frameworks/av" name="Quarx2k/android_frameworks_av" />
+  <project path="frameworks/av" name="pottkopp/android_frameworks_av" />
   <project path="frameworks/base" name="pottkopp/android_frameworks_base" />
   <project path="frameworks/native" name="Quarx2k/android_frameworks_native" />
   <project path="hardware/ril" name="Quarx2k/android_hardware_ril" />
