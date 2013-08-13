@@ -300,7 +300,7 @@
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
- <!--  <project path="packages/apps/Focal" name="CyanogenMod/android_packages_apps_Focal" /> -->
+  <project path="packages/apps/Focal" name="CyanogenMod/android_packages_apps_Focal" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
   <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
@@ -407,7 +407,7 @@
 
   
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av" />
-  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
+  <project path="frameworks/base" name="pottkopp/android_frameworks_baseQbase" />
   <project path="frameworks/native" name="Quarx2k/android_frameworks_native" />
   <project path="hardware/ril" name="Quarx2k/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenDefy/android_hardware_ti_omap3-compat" revision="jellybean"/>
@@ -425,7 +425,7 @@
   <project path="system/core" name="Quarx2k/android_system_core" />
   <project path="frameworks/opt/telephony" name="Quarx2k/android_frameworks_opt_telephony" />
  <!-- <project path="system/vold" name="Quarx2k/android_system_vold" revision="mr1-staging" /> -->
-  <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="pottkopp/android_packages_apps_SettingsQbase" />
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" revision="cm-10.1" />
 
 </manifest>
